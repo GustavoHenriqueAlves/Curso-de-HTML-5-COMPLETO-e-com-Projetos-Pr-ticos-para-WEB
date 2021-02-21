@@ -1,0 +1,20 @@
+- O que é HTML?
+
+    - Hypertext Markup Language ou Linguagem de Marcação de Hipertexto
+
+        - Hipertexto: Um texto que possui marcações e que pode ser linkado a outras
+          referências.
+
+        - Marcação: Formatação.
+
+            - Marcação visual: Determina a localização da informação na página
+            - Marcação semântica: Determina o significado ou o sentido da informação.
+              Por exemplo: um parágrafo, um título principal, uma lista.
+
+              - Tag/Etiqueta: Comandos em HTML.
+
+                - Atributos: Informações que são alocadas na tag de abertura e que
+                  podem mudar o comportamento da tag.
+
+        - Linguagem: Conjunto de símbolos, palavras e regras usadas na construção
+          de setenças que expressam e processam instruções para computadores, um padrão.
